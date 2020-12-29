@@ -39,17 +39,17 @@
         <div class="row">
           <div class="form-group">
             <div class="col-md-4">
-              <label for="c1">Advanced Data Structures and Algorithms</label>
+              <label for="c1">MITM301</label>
               <input type="number" class="form-control" id="classtest1" placeholder="Enter Class Test Marks" name="classtest1" min="1" max="40" required>
             </div>
 
             <div class="col-md-4">
-              <label for="c1">Advanced Object Oriented Programming</label>
+              <label for="c1">MITM302</label>
               <input type="number" class="form-control" id="classtest2" placeholder="Enter Class Test Marks" name="classtest2" min="1" max="40" required>
             </div>
             
             <div class="col-md-4">
-              <label for="c1">Database Architecture and Administration</label>
+              <label for="c1">MITM303</label>
               <input type="number" class="form-control" id="classtest3" placeholder="Enter Class TestMarks" name="classtest3" min="1" max="40" required>
             </div>
           </div>

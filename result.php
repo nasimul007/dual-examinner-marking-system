@@ -40,15 +40,15 @@
 			// echo "<th rowspan=2>Roll</th> <th colspan=3> Teacher 1 <th colspan=3> Teacher 2</th> <th colspan=3>Average Marks</th> <th colspan=3>Remarks</th>";
 			echo "</tr>";
 			echo "<tr>";
-			echo "<td>course 1</td>";
-			echo "<td>course 2</td>";
-			echo "<td>course 3</td>";
-			echo "<td>course 1</td>";
-			echo "<td>course 2</td>";
-			echo "<td>course 3</td>";
-			echo "<td>course 1</td>";
-			echo "<td>course 2</td>";
-			echo "<td>course 3</td>";
+			echo "<td>MITM301</td>";
+			echo "<td>MITM302</td>";
+			echo "<td>MITM303</td>";
+			echo "<td>MITM301</td>";
+			echo "<td>MITM302</td>";
+			echo "<td>MITM303</td>";
+			echo "<td>MITM301</td>";
+			echo "<td>MITM302</td>";
+			echo "<td>MITM303</td>";
 			echo "</tr>";
 			
 			while($row = mysqli_fetch_assoc($result)) {
