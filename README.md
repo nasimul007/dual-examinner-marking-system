@@ -8,3 +8,4 @@
 - Teacher will submit Class Test (40) and Final (60) marks
 - The result will be generated based on the average of two teacher's marks
 - If 20% marks deviation has been found, the result will not generated.
+- A video is added as project explantion. location: project_explanation/dual_examinner_explanation.mp4
